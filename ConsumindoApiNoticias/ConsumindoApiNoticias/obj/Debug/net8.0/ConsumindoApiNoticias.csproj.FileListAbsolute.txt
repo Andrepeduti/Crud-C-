@@ -1,0 +1,17 @@
+C:\Users\André\OneDrive\Documents\WhatInfo\ConsumindoApiNoticias\ConsumindoApiNoticias\bin\Debug\net8.0\ConsumindoApiNoticias.exe
+C:\Users\André\OneDrive\Documents\WhatInfo\ConsumindoApiNoticias\ConsumindoApiNoticias\bin\Debug\net8.0\ConsumindoApiNoticias.deps.json
+C:\Users\André\OneDrive\Documents\WhatInfo\ConsumindoApiNoticias\ConsumindoApiNoticias\bin\Debug\net8.0\ConsumindoApiNoticias.runtimeconfig.json
+C:\Users\André\OneDrive\Documents\WhatInfo\ConsumindoApiNoticias\ConsumindoApiNoticias\bin\Debug\net8.0\ConsumindoApiNoticias.dll
+C:\Users\André\OneDrive\Documents\WhatInfo\ConsumindoApiNoticias\ConsumindoApiNoticias\bin\Debug\net8.0\ConsumindoApiNoticias.pdb
+C:\Users\André\OneDrive\Documents\WhatInfo\ConsumindoApiNoticias\ConsumindoApiNoticias\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\André\OneDrive\Documents\WhatInfo\ConsumindoApiNoticias\ConsumindoApiNoticias\obj\Debug\net8.0\ConsumindoApiNoticias.csproj.AssemblyReference.cache
+C:\Users\André\OneDrive\Documents\WhatInfo\ConsumindoApiNoticias\ConsumindoApiNoticias\obj\Debug\net8.0\ConsumindoApiNoticias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André\OneDrive\Documents\WhatInfo\ConsumindoApiNoticias\ConsumindoApiNoticias\obj\Debug\net8.0\ConsumindoApiNoticias.AssemblyInfoInputs.cache
+C:\Users\André\OneDrive\Documents\WhatInfo\ConsumindoApiNoticias\ConsumindoApiNoticias\obj\Debug\net8.0\ConsumindoApiNoticias.AssemblyInfo.cs
+C:\Users\André\OneDrive\Documents\WhatInfo\ConsumindoApiNoticias\ConsumindoApiNoticias\obj\Debug\net8.0\ConsumindoApiNoticias.csproj.CoreCompileInputs.cache
+C:\Users\André\OneDrive\Documents\WhatInfo\ConsumindoApiNoticias\ConsumindoApiNoticias\obj\Debug\net8.0\ConsumindoApiNoticias.csproj.CopyComplete
+C:\Users\André\OneDrive\Documents\WhatInfo\ConsumindoApiNoticias\ConsumindoApiNoticias\obj\Debug\net8.0\ConsumindoApiNoticias.dll
+C:\Users\André\OneDrive\Documents\WhatInfo\ConsumindoApiNoticias\ConsumindoApiNoticias\obj\Debug\net8.0\refint\ConsumindoApiNoticias.dll
+C:\Users\André\OneDrive\Documents\WhatInfo\ConsumindoApiNoticias\ConsumindoApiNoticias\obj\Debug\net8.0\ConsumindoApiNoticias.pdb
+C:\Users\André\OneDrive\Documents\WhatInfo\ConsumindoApiNoticias\ConsumindoApiNoticias\obj\Debug\net8.0\ConsumindoApiNoticias.genruntimeconfig.cache
+C:\Users\André\OneDrive\Documents\WhatInfo\ConsumindoApiNoticias\ConsumindoApiNoticias\obj\Debug\net8.0\ref\ConsumindoApiNoticias.dll
